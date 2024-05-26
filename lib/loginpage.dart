@@ -11,7 +11,7 @@ class LoginPage extends StatelessWidget {
         child: Column(
           children: [
             Text(
-              "Halo!s",
+              "Halo!",
               style: TextStyle(
                 height: 1,
                 fontWeight: FontWeight.w700,
@@ -19,7 +19,7 @@ class LoginPage extends StatelessWidget {
               ),
             ),
             Text(
-              "Masuk ke akuna",
+              "Masuk ke akun",
               style: TextStyle(
                 height: 1,
                 fontWeight: FontWeight.w500,
